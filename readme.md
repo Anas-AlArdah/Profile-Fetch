@@ -9,7 +9,7 @@ Live demo: [https://anas-alardah.github.io/Profile-Fetch/]
 ## 🚀 Features
 
 - Search any GitHub username to view the profile.
-- Displays:
+- Displays :
   - Avatar
   - Name
   - Bio
