@@ -2,7 +2,7 @@
 
 A modern, dark-themed web app that allows you to fetch and view GitHub user profiles instantly.
 
-Live demo: [https://anas-alardah.github.io/Profile-Fetch/]
+Live demo: https://anas-alardah.github.io/Profile-Fetch/
 
 ---
 
